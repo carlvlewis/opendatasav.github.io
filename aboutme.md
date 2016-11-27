@@ -1,16 +1,7 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About
+subtitle: What we're all about
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Open Data SAV is a group of civic-minded residents living in or near the greater metropolitan area of Savannah, Ga. We share the common belief that by working together to increase the availability and accessibility of public datasets, we can shed new light on issues relevant to our community. While some local and regional governmental agencies have already begun modest efforts to make Savannah a truly "Open Data" city, the fact is that we remain woefully behind many other metropolitan areas of similar population in terms of data transparency, availability and accessibility to the average citizen.
