@@ -2,6 +2,7 @@
 layout: post
 title: Hello, world! We are Open Data Savannah
 tags: [random, exciting-stuff]
+comments: true
 ---
 
 
