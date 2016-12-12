@@ -15,3 +15,6 @@ Our goal is to work with local government agencies and officials to build tools 
 We hold [regular Meetups](https://www.meetup.com/Open-Data-Savannah/) for members and anyone interested in joining. Join us, won't you?
 
 ### SEE: OpenDataSAV's [Code of Conduct](codeofconduct.md)
+
+ <form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://tinyletter.com/carlvlewis" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/carlvlewis', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p><label for="tlemail">Enter your email address</label></p><p><input type="text" style="width:140px" name="email" id="tlemail" /></p><input type="hidden" value="1" name="embed"/><input type="submit" value="Subscribe" /><p><a href="https://tinyletter.com" target="_blank">powered by TinyLetter</a></p></form>
+         
