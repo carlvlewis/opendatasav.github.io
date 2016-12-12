@@ -1,7 +1,11 @@
-# Open Data Savannah
-## Code of Conduct
-=============
-#### Savannah's Bridgade of Code for America
+
+---
+layout: page
+title: OpenDataSAV Code of Conduct
+subtitle: Our committment to diversity, respect and anti-harrassment policies
+---
+
+#### 
 Forked and modified from [CFA Code of Conduct](https://github.com/codeforamerica/codeofconduct)
 
 The OpenDataSAV community expects that OpenDataSAV network activities, events, and digital forums:
