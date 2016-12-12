@@ -24,6 +24,7 @@ The Delivery Lead is the point for projects in the Brigade. The Delivery Lead sh
 
 
 Delivery Lead guideline check-list: 
+
 + Active knowledge of all projects being worked on in local Brigade
 + Understands needs of those projects
 + Connects new members to projects
@@ -37,6 +38,7 @@ The Community Organizer is responsible for building and maintaining community. T
 
 
 **Community Organizer guideline check-list:**
+
 + Recruiting new members
 + Onboarding new members
 + Empowering new members to use skills in Brigade structur
@@ -49,6 +51,7 @@ The Storyteller owns the communication streams for their local Brigade. They wil
 
 
 Storyteller guideline check-list: 
+
 + Ownership of content, marketing, and social media
 + Social media including Twitter, Facebook, Tumblr
 + Website
