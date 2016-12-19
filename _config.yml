@@ -23,7 +23,9 @@ description: A group working to open up public data in Savannah, Ga
 
 # List of links in the navigation bar
 navbar-links:
-  About: "about"
+  About: 
+   - About: "about"
+   - Code of Conduct: "codeofconduct"
   Resources:
     - OpenDataSav on GitHub: "http://github.com/opendatasav"
     - OpenDataSav on Meetup.com: "https://www.meetup.com/Open-Data-Savannah/"
