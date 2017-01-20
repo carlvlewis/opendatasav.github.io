@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://opendatasav.github.io"
+url: "http://opensavannah.github.io"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: OpenDataSAV
+title: Open Savannah
 
 # Short description of your site
 description: A group working to open up public data in Savannah, Ga
@@ -23,11 +23,13 @@ description: A group working to open up public data in Savannah, Ga
 
 # List of links in the navigation bar
 navbar-links:
-  About: "about"
+  About: 
+   - About: "about"
+   - Code of Conduct: "codeofconduct"
   Resources:
-    - OpenDataSav on GitHub: "http://github.com/opendatasav"
-    - OpenDataSav on Meetup.com: "https://www.meetup.com/Open-Data-Savannah/"
-  Join Us: "https://www.meetup.com/Open-Data-Savannah/"
+    - OpenDataSav on GitHub: "http://github.com/opensavannah"
+    - OpenDataSav on Meetup.com: "https://www.meetup.com/OpenSavannah/"
+  Join Us: "https://www.meetup.com/OpenSavannah/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -39,10 +41,10 @@ avatar: "http://carlvlewis.s3.amazonaws.com/cvlassets/opendatasav-avatar.png"
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Carl V. Lewis
-  email: "carl@dataviz.tools"
+  email: "carl@opensavannah.org"
   facebook: yourname  # eg. daattali
-  github: opendatasav    # eg. daattali
-  twitter: opendatasav   # eg. daattali
+  github: opensavannah    # eg. daattali
+  twitter: open_savannah   # eg. daattali
   reddit: yourname    # eg. daattali
   google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
   linkedin: yourname  # eg. daattali
@@ -56,7 +58,7 @@ author:
 # Select which links to show in the footer
 footer-links-active:
   rss: false
-  facebook: true
+  facebook: false
   email: true
   twitter: true
   google-plus: false
@@ -74,16 +76,16 @@ footer-links-active:
 share-links-active:
   twitter: true
   facebook: true
-  google: false
+  google: true
   linkedin: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "opendatasav.github.io"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "opensavannah.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-#disqus: ""
+#disqus: "opendatasav"
 
 # Fill in your Google Analytics ID to track your website using GA
 #google_analytics: ""
@@ -184,5 +186,3 @@ prose:
 gems:
   - jekyll-paginate
 
-# Beautiful Jekyll / Dean Attali
-# 2fc73a3a967e97599c9763d05e564189
