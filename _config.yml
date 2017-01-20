@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://opendatasav.github.io"
+url: "http://opensavannah.github.io"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: OpenDataSAV
+title: Open Savannah
 
 # Short description of your site
 description: A group working to open up public data in Savannah, Ga
@@ -27,8 +27,8 @@ navbar-links:
    - About: "about"
    - Code of Conduct: "codeofconduct"
   Resources:
-    - OpenDataSav on GitHub: "http://github.com/opendatasav"
-    - OpenDataSav on Meetup.com: "https://www.meetup.com/Open-Data-Savannah/"
+    - OpenDataSav on GitHub: "http://github.com/opensavannah"
+    - OpenDataSav on Meetup.com: "https://www.meetup.com/Open-Savannah/"
   Join Us: "https://www.meetup.com/Open-Data-Savannah/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -41,7 +41,7 @@ avatar: "http://carlvlewis.s3.amazonaws.com/cvlassets/opendatasav-avatar.png"
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Carl V. Lewis
-  email: "carl@dataviz.tools"
+  email: "carl@opensavannah.org"
   facebook: yourname  # eg. daattali
   github: opendatasav    # eg. daattali
   twitter: opendatasav   # eg. daattali
