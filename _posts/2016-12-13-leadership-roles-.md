@@ -1,7 +1,11 @@
 ---
-layout: post
 title: Seeking volunteers for leadership/core team members
-tags: [leadership, CFA, brigade]
+date: 2016-12-13 00:00:00 -08:00
+tags:
+- leadership
+- CFA
+- brigade
+layout: post
 comments: true
 ---
 

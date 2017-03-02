@@ -1,6 +1,6 @@
 ---
-layout: page
 title: About
+layout: page
 subtitle: What we're all about
 ---
 

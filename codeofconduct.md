@@ -1,6 +1,6 @@
 ---
-layout: page
 title: OpenDataSAV Code of Conduct
+layout: page
 subtitle: Our committment to diversity, respect and anti-harrassment policies
 ---
 

@@ -1,10 +1,12 @@
 ---
-layout: post
 title: Hello, world! We are Open Data Savannah
-tags: [random, exciting-stuff]
+date: 2016-11-23 00:00:00 -08:00
+tags:
+- random
+- exciting-stuff
+layout: post
 comments: true
 ---
-
 
 Open Data SAV is a group of civic-minded residents living in or near the greater metropolitan area of Savannah, Ga. 
 
